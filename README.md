@@ -15,8 +15,7 @@ Services:
    - Employee Management
    - Task Management
 4. Finance
-   - Generate Invoice
-     [Sheets](https://docs.google.com/spreadsheets/d/14iI6qgHrUR8bETLy7l-_oOz5jV7j1VBiqcTOtxHHr5c/edit?gid=790763898#gid=790763898)
+   - Generate Invoice --> [Sheets](https://docs.google.com/spreadsheets/d/14iI6qgHrUR8bETLy7l-_oOz5jV7j1VBiqcTOtxHHr5c/edit?gid=790763898#gid=790763898) , [App script](https://script.google.com/u/0/home/projects/1AjR90_4ia8WO9bac20NvWGyfontey35jV_PPl5P6tG1m0xvCx3ZlrnIg/edit)
    - Sales Report & Analysis
      Sheets - https://docs.google.com/spreadsheets/d/1YcDPV9YfaGoAgWDK3tFVbC6ZqCvdU0Cnp9R-GaMxaJo/edit?gid=0#gid=0
      App script - https://script.google.com/u/0/home/projects/1exM66OAyuo00pIquZhHcYZTOm3HiMWI3_CgA6TKEcljiuCmdd31rCjsR/edit
