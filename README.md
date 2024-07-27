@@ -4,13 +4,14 @@ https://sites.google.com/view/easybizy/home?authuser=0
 
 Services:
 1. Human resource
-   - HR-Database
-   - HR-Resource
+   - Job Application --> [Spreadsheet](https://docs.google.com/spreadsheets/d/1s3n3v7VmV5YJHWt8H81eiM7UUEIDPEYRa8HGVoitMDA/edit?gid=706722952#gid=706722952), [App script](https://script.google.com/u/1/home/projects/1Oz_JDeAeJMZOvFP48MxVBXm9fvlf1Ffd5Cb-s7El7RKxSGA4k15mjjmP/edit)
+   - Leave Application --> [Spreadsheet](https://docs.google.com/spreadsheets/d/1s3n3v7VmV5YJHWt8H81eiM7UUEIDPEYRa8HGVoitMDA/edit?gid=685693858#gid=685693858), [App script](https://script.google.com/u/1/home/projects/1DeotZWk62OyglcR1OpbdVFm346Ts4Dlg8_8vClgv8ryBfvOkRhEasWxK/edit)
+   - Clock-in / out --> [Spreadsheet](https://docs.google.com/spreadsheets/d/1s3n3v7VmV5YJHWt8H81eiM7UUEIDPEYRa8HGVoitMDA/edit?gid=928693407#gid=928693407), [App script](https://script.google.com/u/1/home/projects/126HnWeKBUe6qvUPvWHYdDO4qmEvvFvjcYFo77FiBry_GlD64wDd1LQFt/edit)
 2. Marketing
    - Customer database --> [Spreadsheet](https://docs.google.com/spreadsheets/d/1ucAgOZJRGUuGcTNdUT58eMHAJaqwYJ8OJD_dGO2gh-g/edit?gid=516422444#gid=516422444)
    - Design Email Templates --> [Spreadsheet](https://docs.google.com/spreadsheets/d/1ucAgOZJRGUuGcTNdUT58eMHAJaqwYJ8OJD_dGO2gh-g/edit?gid=464789932#gid=464789932)
-   - Email Automation --> [Spreadsheet](https://docs.google.com/spreadsheets/d/1ucAgOZJRGUuGcTNdUT58eMHAJaqwYJ8OJD_dGO2gh-g/edit?gid=516422444#gid=516422444), [App Script](https://script.google.com/u/0/home/projects/1T9ADtBn1pwpUhKbfzfIUY3UpN-WtXKluaNNzJFktdXkoypUg1teHd-GD/edit)
-   - Social Media Content Management --> [Spreadsheet](https://docs.google.com/spreadsheets/d/18IAcRdGOdcTrEa0stmQinLVIo2cvw4XVpniVku6yIJw/edit?gid=1475817691#gid=1475817691), [App Script](https://script.google.com/u/0/home/projects/1Mscf4wMfc9j-Dq7Dxgo6sObe0S2uwaTbv4dDItWzdOzj5US7jJwcDCGj/edit)
+   - Email Automation --> [Spreadsheet](https://docs.google.com/spreadsheets/d/1ucAgOZJRGUuGcTNdUT58eMHAJaqwYJ8OJD_dGO2gh-g/edit?gid=516422444#gid=516422444), [App script](https://script.google.com/u/0/home/projects/1T9ADtBn1pwpUhKbfzfIUY3UpN-WtXKluaNNzJFktdXkoypUg1teHd-GD/edit)
+   - Social Media Content Management --> [Spreadsheet](https://docs.google.com/spreadsheets/d/18IAcRdGOdcTrEa0stmQinLVIo2cvw4XVpniVku6yIJw/edit?gid=1475817691#gid=1475817691), [App script](https://script.google.com/u/0/home/projects/1Mscf4wMfc9j-Dq7Dxgo6sObe0S2uwaTbv4dDItWzdOzj5US7jJwcDCGj/edit)
 3. Business operation
    - Employee Management
    - Task Management
