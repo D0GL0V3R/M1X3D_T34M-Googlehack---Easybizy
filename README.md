@@ -25,3 +25,4 @@ Services:
 5. Customer Support --> [Web App Script](https://script.google.com/home/projects/1Ul1ffE84UDPT-8yumlhjev5sXRwxlprx8mTUqvuAB5-xG0Hi_lnRLPzG/edit)
 
 Presentation Video link: 
+Presentation Slide link: https://www.canva.com/design/DAGL2nL3_Z8/N4At1Z5C2AoQbhZb_Owjjw/edit
