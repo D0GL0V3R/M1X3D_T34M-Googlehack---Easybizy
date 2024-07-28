@@ -13,8 +13,9 @@ Services:
    - Email Automation --> [Spreadsheet](https://docs.google.com/spreadsheets/d/1ucAgOZJRGUuGcTNdUT58eMHAJaqwYJ8OJD_dGO2gh-g/edit?gid=516422444#gid=516422444), [App script](https://script.google.com/u/0/home/projects/1T9ADtBn1pwpUhKbfzfIUY3UpN-WtXKluaNNzJFktdXkoypUg1teHd-GD/edit)
    - Social Media Content Management --> [Spreadsheet](https://docs.google.com/spreadsheets/d/18IAcRdGOdcTrEa0stmQinLVIo2cvw4XVpniVku6yIJw/edit?gid=1475817691#gid=1475817691), [App script](https://script.google.com/u/0/home/projects/1Mscf4wMfc9j-Dq7Dxgo6sObe0S2uwaTbv4dDItWzdOzj5US7jJwcDCGj/edit)
 3. Business operation
-   - Employee Management
-   - Task Management
+   - Allocate task --> [App script](https://script.google.com/home/projects/1IGhDXByMTvnzEZnMMaAsmgwztFYsVoFAXdWsl_EOSfcie8Gq6fNRWKBs/edit)
+   - Get Employee Task --> [App script](https://script.google.com/home/projects/1HT7zc_6yNJkYLkdZ6qd7XHd-iOz-ShilKtAaTuXtAQHaVKa3VQBhGJJl/edit)
+   - Check Timeline --> [App script](https://script.google.com/home/projects/1fY2JrGAMUHRcK_ARM3-8wxpbmYNWDWUpJAAqu3Gp4QE0k-gYKaM6QZe8/edit)
 4. Finance
    - Generate Invoice --> [Spreadsheet](https://docs.google.com/spreadsheets/d/14iI6qgHrUR8bETLy7l-_oOz5jV7j1VBiqcTOtxHHr5c/edit?gid=790763898#gid=790763898) , [App script](https://script.google.com/u/0/home/projects/1AjR90_4ia8WO9bac20NvWGyfontey35jV_PPl5P6tG1m0xvCx3ZlrnIg/edit)
    - Sales Report & Analysis --> [Spreadsheet](https://docs.google.com/spreadsheets/d/1YcDPV9YfaGoAgWDK3tFVbC6ZqCvdU0Cnp9R-GaMxaJo/edit?gid=0#gid=0) , [App script](https://script.google.com/u/0/home/projects/1exM66OAyuo00pIquZhHcYZTOm3HiMWI3_CgA6TKEcljiuCmdd31rCjsR/edit), [Web App script](https://script.google.com/d/1kwLUy4H-rnGUCvDD_ynO7graHt-ZTUonnGHNryTARbeacHu59FfpMiOm/edit?usp=sharing)
