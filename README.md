@@ -13,9 +13,8 @@ Services:
    - Email Automation --> [Spreadsheet](https://docs.google.com/spreadsheets/d/1ucAgOZJRGUuGcTNdUT58eMHAJaqwYJ8OJD_dGO2gh-g/edit?gid=516422444#gid=516422444), [App script](https://script.google.com/u/0/home/projects/1T9ADtBn1pwpUhKbfzfIUY3UpN-WtXKluaNNzJFktdXkoypUg1teHd-GD/edit)
    - Social Media Content Management --> [Spreadsheet](https://docs.google.com/spreadsheets/d/18IAcRdGOdcTrEa0stmQinLVIo2cvw4XVpniVku6yIJw/edit?gid=1475817691#gid=1475817691), [App script](https://script.google.com/u/0/home/projects/1Mscf4wMfc9j-Dq7Dxgo6sObe0S2uwaTbv4dDItWzdOzj5US7jJwcDCGj/edit)
 3. Business operation
-   - Allocate task --> [App script](https://script.google.com/home/projects/1IGhDXByMTvnzEZnMMaAsmgwztFYsVoFAXdWsl_EOSfcie8Gq6fNRWKBs/edit)
-   - Get Employee Task --> [App script](https://script.google.com/home/projects/1HT7zc_6yNJkYLkdZ6qd7XHd-iOz-ShilKtAaTuXtAQHaVKa3VQBhGJJl/edit)
-   - Check Timeline --> [App script](https://script.google.com/home/projects/1fY2JrGAMUHRcK_ARM3-8wxpbmYNWDWUpJAAqu3Gp4QE0k-gYKaM6QZe8/edit)
+   - Employee management --> [Spreadsheet](https://docs.google.com/spreadsheets/d/1mvpuusXhsDbvduuWFL2eFIbl1fad5CbVe-lvhoqXukA/edit?gid=989406741#gid=989406741), [App script](https://script.google.com/u/0/home/projects/1IybRIqbW3WN6KU0UlF6NF0aPESn5cDXGzYwVC4IdQpfRutl2ZQoXl5us/edit)
+   - Task management --> [Spreadsheet](https://docs.google.com/spreadsheets/d/1G13ap3g-b-ArTaCSD4Zqpw1Vp-_2w1urJSIUbGTvSCI/edit?resourcekey=&gid=2111646747#gid=2111646747), [App script](https://script.google.com/u/0/home/projects/13Gh_kZ-pISSP4DqNG2k1ay_jHspjJpKTki9TkQ1BLYi90PbAU6MQ9jE0/edit)
 4. Finance
    - Generate Invoice --> [Spreadsheet](https://docs.google.com/spreadsheets/d/14iI6qgHrUR8bETLy7l-_oOz5jV7j1VBiqcTOtxHHr5c/edit?gid=790763898#gid=790763898) , [App script](https://script.google.com/u/0/home/projects/1AjR90_4ia8WO9bac20NvWGyfontey35jV_PPl5P6tG1m0xvCx3ZlrnIg/edit)
    - Sales Report & Analysis --> [Spreadsheet](https://docs.google.com/spreadsheets/d/1YcDPV9YfaGoAgWDK3tFVbC6ZqCvdU0Cnp9R-GaMxaJo/edit?gid=0#gid=0) , [App script](https://script.google.com/u/0/home/projects/1exM66OAyuo00pIquZhHcYZTOm3HiMWI3_CgA6TKEcljiuCmdd31rCjsR/edit), [Web App script](https://script.google.com/d/1kwLUy4H-rnGUCvDD_ynO7graHt-ZTUonnGHNryTARbeacHu59FfpMiOm/edit?usp=sharing)
